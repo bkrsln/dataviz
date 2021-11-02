@@ -2,25 +2,30 @@
 
 A guide for data visualization world.
 
-## Learn
+## Learning from experts
 
-### :compass: Guide
-- [Data Viz Catalogue](https://datavizcatalogue.com/)
-- [From Data to Viz](https://www.data-to-viz.com)
-- [D3.js](https://oguzhaninan.gitbook.io/d3-js/)
-- [Visualization Universe](http://visualizationuniverse.com)
-- [Visual Vocabulary](https://ft-interactive.github.io/visual-vocabulary/)
-- [Python Graph Gallery](https://www.python-graph-gallery.com)
-- [R Graph Gallery](https://www.r-graph-gallery.com)
-- [D3.js Graph Gallery](https://www.d3-graph-gallery.com)
-- [BBC Cookbook](https://bbc.github.io/rcookbook/)
-- [Data Visualization: A Practical Introduction](https://socviz.co/index.html)
+### :compass: Guide, Tutorial, Course
+- [Data Viz Catalogue](https://datavizcatalogue.com/) (Guide)
+- [From Data to Viz](https://www.data-to-viz.com) (Guide)
+- [Learn D3](https://observablehq.com/collection/@d3/learn-d3) (Tutorial)
+- [Visualization Universe](http://visualizationuniverse.com) (Guide)
+- [Visual Vocabulary](https://ft-interactive.github.io/visual-vocabulary/) (Guide)
+- [Python Graph Gallery](https://www.python-graph-gallery.com) (Guide)
+- [R Graph Gallery](https://www.r-graph-gallery.com) (Guide)
+- [D3.js Graph Gallery](https://www.d3-graph-gallery.com) (Guide)
+- [BBC Cookbook](https://bbc.github.io/rcookbook/) (Tutorial)
+- [Data Visualization: A Practical Introduction](https://socviz.co/index.html) (Guide)
+- [Data Visualization with D3, JavaScript, React](https://www.youtube.com/watch?v=2LhoCfjm8R4) (Course)
+- [Dashing D3js](https://www.dashingd3js.com/d3-tutorial) (Tutorial)
+- [D3.js Wiki](https://github.com/d3/d3/wiki) (Guide)
+- [Using D3.js](http://using-d3js.com/index.html) (Tutorial)
+- [Material System Data Visualization](https://material.io/design/communication/data-visualization.html#principles) (Guide)
 
 :top: [Back to top](#dataviz)
 
 ### :closed_book: Book
-- [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/)
-- [Hands-On Data Visualization](https://handsondataviz.org)
+- [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/) (Free)
+- [Hands-On Data Visualization](https://handsondataviz.org) (Free)
 - [Interactive Data Visualization](https://www.oreilly.com/library/view/interactive-data-visualization/9781449340223/)
 - [Data Visualization in Society](https://www.aup.nl/en/book/9789463722902/data-visualization-in-society)
 - [Better Data Visualizations](http://cup.columbia.edu/book/better-data-visualizations/9780231193115)
@@ -29,10 +34,11 @@ A guide for data visualization world.
 - [Storytelling with Data](https://www.amazon.com/gp/product/1119002257/)
 - [How Charts Lie](https://www.amazon.com/How-Charts-Lie-Getting-Information/dp/1324001569)
 - [Good Charts](https://www.amazon.com/Good-Charts-Smarter-Persuasive-Visualizations/dp/1633690709)
+- [Fullstack D3 and Data Visualization](https://www.newline.co/fullstack-d3)
 
 :top: [Back to top](#dataviz)
 
-## Create
+## Creating own visualizations
 
 ### :control_knobs: Tool, Library, Framework
 - [Google Charts](https://developers.google.com/chart/)
@@ -50,7 +56,7 @@ A guide for data visualization world.
 
 :top: [Back to top](#dataviz)
 
-## Follow
+## Following to professionals
 
 ### :partying_face: Blog, Network, Community, Agency
 - [Flowingdata](https://flowingdata.com)
@@ -78,6 +84,7 @@ A guide for data visualization world.
 - [Bloomberg Graphics](https://twitter.com/BBGVisualData)
 - [Reuters Graphics](https://twitter.com/ReutersGraphics)
 - [Post Graphics](https://twitter.com/PostGraphics)
+- [Nightingale](https://nightingaledvs.com)
 
 :top: [Back to top](#dataviz)
 
