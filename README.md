@@ -31,7 +31,7 @@ A guide for data visualization world.
 
 :top: [Back to top](#dataviz)
 
-## Prepare
+## Create
 
 ### :control_knobs: Tool, Library, Framework
 - [Google Charts](https://developers.google.com/chart/)
@@ -46,6 +46,8 @@ A guide for data visualization world.
 - [Bokeh](https://bokeh.org)
 - [Chartify](https://github.com/spotify/chartify)
 - [Charts.css](https://github.com/ChartsCSS/charts.css)
+
+:top: [Back to top](#dataviz)
 
 ## Follow
 
@@ -75,6 +77,8 @@ A guide for data visualization world.
 - [Bloomberg Graphics](https://twitter.com/BBGVisualData)
 - [Reuters Graphics](https://twitter.com/ReutersGraphics)
 - [Post Graphics](https://twitter.com/PostGraphics)
+
+:top: [Back to top](#dataviz)
 
 ### :sunglasses: People
 - [Tamas Varga](https://twitter.com/imperativusz)
@@ -115,3 +119,5 @@ A guide for data visualization world.
 - [Mona Chalabi](https://twitter.com/MonaChalabi)
 - [Cole Knaflic](https://twitter.com/storywithdata)
 - [Piero Zagami](https://twitter.com/pierozagami)
+
+:top: [Back to top](#dataviz)
