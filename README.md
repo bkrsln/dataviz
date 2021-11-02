@@ -1,4 +1,4 @@
-# :art: Dataviz
+# :art: [Dataviz](#top)
 
 A guide for data visualization world.
 
@@ -15,7 +15,7 @@ A guide for data visualization world.
 - [D3.js Graph Gallery](https://www.d3-graph-gallery.com)
 - [BBC Cookbook](https://bbc.github.io/rcookbook/)
 
-:top: [Back to top](#table-of-contents)
+:top: [Back to top](#top)
 
 ### :closed_book: Book
 - [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/)
@@ -29,7 +29,7 @@ A guide for data visualization world.
 - [How Charts Lie](https://www.amazon.com/How-Charts-Lie-Getting-Information/dp/1324001569)
 - [Good Charts](https://www.amazon.com/Good-Charts-Smarter-Persuasive-Visualizations/dp/1633690709)
 
-:top: [Back to top](#table-of-contents)
+:top: [Back to top](#top)
 
 ## Prepare
 
