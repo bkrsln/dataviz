@@ -1,4 +1,4 @@
-# :art: #dataviz
+# :art: Dataviz
 
 A guide for data visualization world.
 
@@ -14,6 +14,7 @@ A guide for data visualization world.
 - [R Graph Gallery](https://www.r-graph-gallery.com)
 - [D3.js Graph Gallery](https://www.d3-graph-gallery.com)
 - [BBC Cookbook](https://bbc.github.io/rcookbook/)
+
 [Back to top](#)
 
 ### :closed_book: Book
@@ -27,6 +28,7 @@ A guide for data visualization world.
 - [Storytelling with Data](https://www.amazon.com/gp/product/1119002257/)
 - [How Charts Lie](https://www.amazon.com/How-Charts-Lie-Getting-Information/dp/1324001569)
 - [Good Charts](https://www.amazon.com/Good-Charts-Smarter-Persuasive-Visualizations/dp/1633690709)
+
 [Back to top](#)
 
 ## Prepare
@@ -44,7 +46,6 @@ A guide for data visualization world.
 - [Bokeh](https://bokeh.org)
 - [Chartify](https://github.com/spotify/chartify)
 - [Charts.css](https://github.com/ChartsCSS/charts.css)
-- 
 
 ## Follow
 
