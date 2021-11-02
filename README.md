@@ -1,16 +1,19 @@
-# #dataviz
+# :chart_with_upwards_trend: #dataviz
 
-A guide for data visualization world.
+A guide for data visualization world.marmard
 
 ## Learning
 
 ### Guide
-- [Data Viz Catalogue](https://datavizcatalogue.com/TR/)
+- [Data Viz Catalogue](https://datavizcatalogue.com/)
 - [From Data to Viz](https://www.data-to-viz.com)
 - [BBC Cookbook](https://bbc.github.io/rcookbook/)
 - [D3.js](https://oguzhaninan.gitbook.io/d3-js/)
 - [Visualization Universe](http://visualizationuniverse.com)
 - [Visual Vocabulary](https://ft-interactive.github.io/visual-vocabulary/)
+- [Python Graph Gallery](https://www.python-graph-gallery.com)
+- [R Graph Gallery](https://www.r-graph-gallery.com)
+- [D3.js Graph Gallery](https://www.d3-graph-gallery.com)
 
 ### Book
 - [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/)
