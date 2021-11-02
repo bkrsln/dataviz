@@ -1,4 +1,4 @@
-# :art: Dataviz
+# Dataviz
 
 A guide for data visualization world.
 
