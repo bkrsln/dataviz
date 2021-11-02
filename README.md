@@ -24,17 +24,17 @@ A guide for data visualization world.
 :top: [Back to top](#dataviz)
 
 ### :closed_book: Book
-- [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/) (Free)
-- [Hands-On Data Visualization](https://handsondataviz.org) (Free)
-- [Interactive Data Visualization](https://www.oreilly.com/library/view/interactive-data-visualization/9781449340223/)
-- [Data Visualization in Society](https://www.aup.nl/en/book/9789463722902/data-visualization-in-society)
-- [Better Data Visualizations](http://cup.columbia.edu/book/better-data-visualizations/9780231193115)
-- [Dear Data](https://www.amazon.com/Dear-Data-Giorgia-Lupi/dp/1616895322)
-- [D3.js in Action](https://www.amazon.com/D3-js-Action-Data-visualization-JavaScript/dp/1617294489)
-- [Storytelling with Data](https://www.amazon.com/gp/product/1119002257/)
-- [How Charts Lie](https://www.amazon.com/How-Charts-Lie-Getting-Information/dp/1324001569)
-- [Good Charts](https://www.amazon.com/Good-Charts-Smarter-Persuasive-Visualizations/dp/1633690709)
-- [Fullstack D3 and Data Visualization](https://www.newline.co/fullstack-d3)
+- [Fundamentals of Data Visualization, Claus O. Wilke](https://clauswilke.com/dataviz/) (Free)
+- [Hands-On Data Visualization, Jack Dougherty & Ilya Ilyankou](https://handsondataviz.org) (Free)
+- [Interactive Data Visualization, Scott Murray](https://www.oreilly.com/library/view/interactive-data-visualization/9781449340223/)
+- [Data Visualization in Society, Martin Engebretsen & Helen Kennedy](https://www.aup.nl/en/book/9789463722902/data-visualization-in-society)
+- [Better Data Visualizations, Jonathan Schwabish](http://cup.columbia.edu/book/better-data-visualizations/9780231193115)
+- [Dear Data, Giorgia Lupi](https://www.amazon.com/Dear-Data-Giorgia-Lupi/dp/1616895322)
+- [D3.js in Action, Elijah Meeks](https://www.amazon.com/D3-js-Action-Data-visualization-JavaScript/dp/1617294489)
+- [Storytelling with Data, Cole Nussbaumer Knaflic](https://www.amazon.com/gp/product/1119002257/)
+- [How Charts Lie, Alberto Cairo](https://www.amazon.com/How-Charts-Lie-Getting-Information/dp/1324001569)
+- [Good Charts, Scott Berinato](https://www.amazon.com/Good-Charts-Smarter-Persuasive-Visualizations/dp/1633690709)
+- [Fullstack D3 and Data Visualization, Amelia Wattenberger](https://www.newline.co/fullstack-d3)
 
 :top: [Back to top](#dataviz)
 
