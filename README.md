@@ -1,37 +1,42 @@
-# Veri görselleştirme notları
+# #dataviz
 
-Bu dokümanda veri görselleştirme konusunda faydalandığım kaynaklar, kütüphaneler, kitaplar ve çeşitli oluşumlar yer alıyor. Zaman zaman güncellemeyi planlıyorum. İsmi anlaşılır olmayanlar için kısa açıklamalar yanlarında yer alıyor.
+A guide for data visualization world.
 
-## Kütüphane
-- [Google Charts](https://developers.google.com/chart/)
-- [RAW Graphs](https://rawgraphs.io)
-- [Workbench](https://workbenchdata.com) (Kodsuz veri kazıma, temizleme, birleştirme, analiz yapabileceğiniz online araç.)
-- [Florish](https://flourish.studio/) (Kodsuz basit görselleştirmeler hazırlayabileceğiniz, hikayeler anlatabileceğiniz online araç.)
-- [VisiData](https://jsvine.github.io/intro-to-visidata/) (Terminal üzerinde çalışabileceğiniz açık kaynak bir kütüphane.)
-- [D3.js (Data-Driven Documents)](https://d3js.org)
-- [Charticulator](https://charticulator.com/index.html) (Microsoft'un desteklediği açık kaynak bir görselleştirme aracı.)
-- [Infogram](https://infogram.com)
+## Learning
 
-## Rehber
-- [Veri Görselleştirme Katalogu](https://datavizcatalogue.com/TR/)
+### Guide
+- [Data Viz Catalogue](https://datavizcatalogue.com/TR/)
 - [From Data to Viz](https://www.data-to-viz.com)
-- [BBC Cookbook](https://bbc.github.io/rcookbook/) (BBC'nin görselleştirme ve gazetecilikte kullandığı R yöntemleri.)
-- [D3.js nedir, ne değildir?](https://oguzhaninan.gitbook.io/d3-js/)
-- [Visualization Universe](http://visualizationuniverse.com) (Bir nevi katalog.)
+- [BBC Cookbook](https://bbc.github.io/rcookbook/)
+- [D3.js](https://oguzhaninan.gitbook.io/d3-js/)
+- [Visualization Universe](http://visualizationuniverse.com)
 - [Visual Vocabulary](https://ft-interactive.github.io/visual-vocabulary/)
 
-## Kitap
+### Book
 - [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/)
 - [Hands-On Data Visualization](https://handsondataviz.org)
 
-## Blog, Ağ, Kominite, Medya, Kuruluş
+## Prepare
+
+### Tool, Library, Framework
+- [Google Charts](https://developers.google.com/chart/)
+- [RAW Graphs](https://rawgraphs.io)
+- [Workbench](https://workbenchdata.com)
+- [Florish](https://flourish.studio/)
+- [VisiData](https://jsvine.github.io/intro-to-visidata/)
+- [D3.js (Data-Driven Documents)](https://d3js.org)
+- [Charticulator](https://charticulator.com/index.html)
+- [Infogram](https://infogram.com)
+
+## Follow
+
+### Blog, Network, Community, Agency
 - [Flowingdata](https://flowingdata.com)
 - [Visual Capitalist](https://www.visualcapitalist.com)
 - [Our World in Data](https://ourworldindata.org)
 - [Information is Beatiful](https://informationisbeautiful.net)
 - [Data is Beatiful](https://www.reddit.com/r/dataisbeautiful/)
 - [Questions in Dataviz](https://questionsindataviz.com)
-- [Çilek Ağacı](http://www.cilekagaci.com) (Keşke aktif olsa.)
 - [Nightingale](https://medium.com/nightingale)
 - [Viz for Social Good](https://twitter.com/VizFSG)
 - [Data Visualization Society](https://www.datavisualizationsociety.com)
@@ -40,7 +45,7 @@ Bu dokümanda veri görselleştirme konusunda faydalandığım kaynaklar, kütü
 - [Five Thirty Eight](https://twitter.com/FiveThirtyEight)
 - [Tableau Public](https://public.tableau.com/en-us/gallery)
 - [Turkey Data Monitor](https://twitter.com/turkeymonitor)
-- [DelayedGratification](https://www.slow-journalism.com) (Harika bir dergi.)
+- [Delayed Gratification Magazine](https://www.slow-journalism.com)
 - [NYT Graphics](https://twitter.com/nytgraphics)
 - [WSJ Graphics](https://twitter.com/WSJGraphics)
 - [Datawrapper](https://twitter.com/Datawrapper)
@@ -52,7 +57,7 @@ Bu dokümanda veri görselleştirme konusunda faydalandığım kaynaklar, kütü
 - [Reuters Graphics](https://twitter.com/ReutersGraphics)
 - [Post Graphics](https://twitter.com/PostGraphics)
 
-## Kişi
+### People
 - [Tamas Varga](https://twitter.com/imperativusz)
 - [Jason Forrest](https://twitter.com/Jasonforrestftw)
 - [Will Chase](https://twitter.com/W_R_Chase)
