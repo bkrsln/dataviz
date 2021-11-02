@@ -1,10 +1,10 @@
-# :chart_with_upwards_trend: #dataviz
+# :art: #dataviz
 
 A guide for data visualization world.marmard
 
 ## Learning
 
-### Guide
+### :compass: Guide
 - [Data Viz Catalogue](https://datavizcatalogue.com/)
 - [From Data to Viz](https://www.data-to-viz.com)
 - [BBC Cookbook](https://bbc.github.io/rcookbook/)
@@ -15,13 +15,13 @@ A guide for data visualization world.marmard
 - [R Graph Gallery](https://www.r-graph-gallery.com)
 - [D3.js Graph Gallery](https://www.d3-graph-gallery.com)
 
-### Book
+### :closed_book: Book
 - [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/)
 - [Hands-On Data Visualization](https://handsondataviz.org)
 
 ## Prepare
 
-### Tool, Library, Framework
+### :control_knobs: Tool, Library, Framework
 - [Google Charts](https://developers.google.com/chart/)
 - [RAW Graphs](https://rawgraphs.io)
 - [Workbench](https://workbenchdata.com)
@@ -33,7 +33,7 @@ A guide for data visualization world.marmard
 
 ## Follow
 
-### Blog, Network, Community, Agency
+### :partying_face: Blog, Network, Community, Agency
 - [Flowingdata](https://flowingdata.com)
 - [Visual Capitalist](https://www.visualcapitalist.com)
 - [Our World in Data](https://ourworldindata.org)
@@ -60,7 +60,7 @@ A guide for data visualization world.marmard
 - [Reuters Graphics](https://twitter.com/ReutersGraphics)
 - [Post Graphics](https://twitter.com/PostGraphics)
 
-### People
+### :sunglasses: People
 - [Tamas Varga](https://twitter.com/imperativusz)
 - [Jason Forrest](https://twitter.com/Jasonforrestftw)
 - [Will Chase](https://twitter.com/W_R_Chase)
