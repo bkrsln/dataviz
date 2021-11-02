@@ -2,18 +2,19 @@
 
 A guide for data visualization world.
 
-## Learning
+## Learn
 
 ### :compass: Guide
 - [Data Viz Catalogue](https://datavizcatalogue.com/)
 - [From Data to Viz](https://www.data-to-viz.com)
-- [BBC Cookbook](https://bbc.github.io/rcookbook/)
 - [D3.js](https://oguzhaninan.gitbook.io/d3-js/)
 - [Visualization Universe](http://visualizationuniverse.com)
 - [Visual Vocabulary](https://ft-interactive.github.io/visual-vocabulary/)
 - [Python Graph Gallery](https://www.python-graph-gallery.com)
 - [R Graph Gallery](https://www.r-graph-gallery.com)
 - [D3.js Graph Gallery](https://www.d3-graph-gallery.com)
+- [BBC Cookbook](https://bbc.github.io/rcookbook/)
+[Back to top](#)
 
 ### :closed_book: Book
 - [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/)
@@ -26,6 +27,7 @@ A guide for data visualization world.
 - [Storytelling with Data](https://www.amazon.com/gp/product/1119002257/)
 - [How Charts Lie](https://www.amazon.com/How-Charts-Lie-Getting-Information/dp/1324001569)
 - [Good Charts](https://www.amazon.com/Good-Charts-Smarter-Persuasive-Visualizations/dp/1633690709)
+[Back to top](#)
 
 ## Prepare
 
@@ -38,6 +40,11 @@ A guide for data visualization world.
 - [D3.js (Data-Driven Documents)](https://d3js.org)
 - [Charticulator](https://charticulator.com/index.html)
 - [Infogram](https://infogram.com)
+- [roughViz](https://github.com/jwilber/roughViz)
+- [Bokeh](https://bokeh.org)
+- [Chartify](https://github.com/spotify/chartify)
+- [Charts.css](https://github.com/ChartsCSS/charts.css)
+- 
 
 ## Follow
 
