@@ -14,6 +14,7 @@ A guide for data visualization world.
 - [R Graph Gallery](https://www.r-graph-gallery.com)
 - [D3.js Graph Gallery](https://www.d3-graph-gallery.com)
 - [BBC Cookbook](https://bbc.github.io/rcookbook/)
+- [Data Visualization: A Practical Introduction](https://socviz.co/index.html)
 
 :top: [Back to top](#dataviz)
 
