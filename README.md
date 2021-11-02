@@ -1,6 +1,6 @@
 # :art: #dataviz
 
-A guide for data visualization world.marmard
+A guide for data visualization world.
 
 ## Learning
 
@@ -18,6 +18,14 @@ A guide for data visualization world.marmard
 ### :closed_book: Book
 - [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/)
 - [Hands-On Data Visualization](https://handsondataviz.org)
+- [Interactive Data Visualization](https://www.oreilly.com/library/view/interactive-data-visualization/9781449340223/)
+- [Data Visualization in Society](https://www.aup.nl/en/book/9789463722902/data-visualization-in-society)
+- [Better Data Visualizations](http://cup.columbia.edu/book/better-data-visualizations/9780231193115)
+- [Dear Data](https://www.amazon.com/Dear-Data-Giorgia-Lupi/dp/1616895322)
+- [D3.js in Action](https://www.amazon.com/D3-js-Action-Data-visualization-JavaScript/dp/1617294489)
+- [Storytelling with Data](https://www.amazon.com/gp/product/1119002257/)
+- [How Charts Lie](https://www.amazon.com/How-Charts-Lie-Getting-Information/dp/1324001569)
+- [Good Charts](https://www.amazon.com/Good-Charts-Smarter-Persuasive-Visualizations/dp/1633690709)
 
 ## Prepare
 
