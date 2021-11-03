@@ -96,6 +96,21 @@ A resource about the world of data visualization for learners, experts, enthusia
 
 :top: [Back to top](#dataviz)
 
+### :studio_microphone: YouTube Channel, Podcast
+- [Explore Explain](https://www.visualisingdata.com/podcast/) (YouTube Channel)(Podcast)
+- [Data Viz Today](https://dataviztoday.com) (Podcast)
+- [Data Stories](https://datastori.es) (Podcast)
+- [Storytelling with Data](https://www.storytellingwithdata.com/podcast) (Podcast)
+- [Storytelling with Data](https://www.youtube.com/channel/UCjhGlILWNloXJdR2NTCBMlA/featured) (YouTube Channel)
+- [The Present Beyond Measure Show](https://leapica.com/podcast/) (Podcast)
+- [Data Visualization Society](https://www.youtube.com/c/DataVisualizationSociety/featured) (YouTube Channel)
+- [Tableau Tim](https://www.youtube.com/c/TableauTim/featured) (YouTube Channel)
+- [Guy in a Cube](https://www.youtube.com/c/GuyinaCube/featured) (YouTube Channel)
+- [Alex The Analyst](https://www.youtube.com/channel/UC7cs8q-gJRlGwj4A8OmCmXg) (YouTube Channel)
+- [Anthony B. Smoak](https://www.youtube.com/c/AnthonySmoak/videos) (YouTube Channel)
+
+:top: [Back to top](#dataviz)
+
 ### :sunglasses: People
 - [Tamas Varga](https://twitter.com/imperativusz)
 - [Jason Forrest](https://twitter.com/Jasonforrestftw)
