@@ -22,10 +22,12 @@ A resource about the world of data visualization for learners, experts, enthusia
 - [Material System Data Visualization](https://material.io/design/communication/data-visualization.html#principles) (Guide)
 - [Data Visualization with D3](https://www.freecodecamp.org/learn/data-visualization/) (Course)
 - [Learn Data Visualization](https://www.kaggle.com/learn/data-visualization) (Course)
+- [Tableau Student Guide](https://www.thetableaustudentguide.com) (Guide)
 
 ### :coffee: Experience
 - [What Data Visualisation Experts Wish They Knew When They First Started, Evelina Judeikytė](https://medium.com/nightingale/what-data-visualisation-experts-wish-they-knew-when-they-first-started-e9bd4906d25)
 - [How I Became a Data Visualization Designer, Nadieh Bremer](https://www.visualcinnamon.com/resources/learning-data-visualization/)
+- [I Learned Data Viz in a Year, and You Can Too, Evelina Judeikytė](https://medium.com/nightingale/i-learned-data-viz-in-a-year-and-you-can-too-2b610d25946e)
 
 :top: [Back to top](#dataviz)
 
