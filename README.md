@@ -1,6 +1,6 @@
 # Dataviz
 
-A resource about the world of data visualization for students, experts, enthusiasts and lovers.
+A resource about the world of data visualization for learners, experts, enthusiasts and lovers.
 
 ## Learning from experts
 
