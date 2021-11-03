@@ -20,8 +20,8 @@ A resource about the world of data visualization for students, experts, enthusia
 - [D3.js Wiki](https://github.com/d3/d3/wiki) (Guide)
 - [Using D3.js](http://using-d3js.com/index.html) (Tutorial)
 - [Material System Data Visualization](https://material.io/design/communication/data-visualization.html#principles) (Guide)
-- [Data Visualization with D3](https://www.freecodecamp.org/learn/data-visualization/)
-- [Learn Data Visualization](https://www.kaggle.com/learn/data-visualization)
+- [Data Visualization with D3](https://www.freecodecamp.org/learn/data-visualization/) (Course)
+- [Learn Data Visualization](https://www.kaggle.com/learn/data-visualization) (Course)
 
 ### :coffee: Experience
 - [What Data Visualisation Experts Wish They Knew When They First Started, Evelina Judeikytė](https://medium.com/nightingale/what-data-visualisation-experts-wish-they-knew-when-they-first-started-e9bd4906d25)
