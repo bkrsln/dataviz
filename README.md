@@ -6,6 +6,7 @@ A resource about the world of data visualization for learners, experts, enthusia
 
 ### :compass: Guide, Tutorial, Course
 - [Data Viz Catalogue](https://datavizcatalogue.com/) (Guide)
+- [Data Viz Project](https://datavizproject.com/) (Guide)
 - [From Data to Viz](https://www.data-to-viz.com) (Guide)
 - [Learn D3](https://observablehq.com/collection/@d3/learn-d3) (Tutorial)
 - [Visualization Universe](http://visualizationuniverse.com) (Guide)
