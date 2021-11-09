@@ -50,16 +50,25 @@ A resource about the world of data visualization for learners, experts, enthusia
 ## Creating own visualizations
 
 ### :control_knobs: Tool, Library, Framework
+- [Python, Matplotlib](https://matplotlib.org)
+- [Python, Seaborn](https://seaborn.pydata.org/)
+- [Python, Bokeh](https://bokeh.org)
+- [Python, Altair](https://altair-viz.github.io)
+- [Python, plotly](https://plotly.com)
+- [R, ggplot2](https://ggplot2.tidyverse.org)
+- [Tableau](https://www.tableau.com)
+- [Google Data Studio](https://datastudio.google.com/overview)
+- [Looker](https://looker.com)
+- [Power BI](https://powerbi.microsoft.com/)
+- [D3.js (Data-Driven Documents)](https://d3js.org)
 - [Google Charts](https://developers.google.com/chart/)
 - [RAW Graphs](https://rawgraphs.io)
 - [Workbench](https://workbenchdata.com)
 - [Florish](https://flourish.studio/)
 - [VisiData](https://jsvine.github.io/intro-to-visidata/)
-- [D3.js (Data-Driven Documents)](https://d3js.org)
 - [Charticulator](https://charticulator.com/index.html)
 - [Infogram](https://infogram.com)
 - [roughViz](https://github.com/jwilber/roughViz)
-- [Bokeh](https://bokeh.org)
 - [Chartify](https://github.com/spotify/chartify)
 - [Charts.css](https://github.com/ChartsCSS/charts.css)
 
@@ -68,15 +77,15 @@ A resource about the world of data visualization for learners, experts, enthusia
 ## Following to professionals
 
 ### :partying_face: Blog, Network, Community, Agency
-- [Flowingdata](https://flowingdata.com)
 - [Visual Capitalist](https://www.visualcapitalist.com)
 - [Our World in Data](https://ourworldindata.org)
 - [Information is Beatiful](https://informationisbeautiful.net)
-- [Data is Beatiful](https://www.reddit.com/r/dataisbeautiful/)
+- [Reddit, Data is Beatiful](https://www.reddit.com/r/dataisbeautiful/)
 - [Questions in Dataviz](https://questionsindataviz.com)
 - [Nightingale](https://medium.com/nightingale)
 - [Viz for Social Good](https://twitter.com/VizFSG)
 - [Data Visualization Society](https://www.datavisualizationsociety.com)
+- [Flowingdata](https://flowingdata.com)
 - [Irish Data Viz](https://twitter.com/IrishDataViz)
 - [The Pudding](https://pudding.cool)
 - [Five Thirty Eight](https://twitter.com/FiveThirtyEight)
