@@ -24,6 +24,8 @@ A resource about the world of data visualization for learners, experts, enthusia
 - [Data Visualization with D3](https://www.freecodecamp.org/learn/data-visualization/) (Course)
 - [Learn Data Visualization](https://www.kaggle.com/learn/data-visualization) (Course)
 - [Tableau Student Guide](https://www.thetableaustudentguide.com) (Guide)
+- [Guide to Colors in Data Visualisation](https://blog.datawrapper.de/colorguide/) (Guide)(Color)
+- [Colors for Your Data Visualizations](https://blog.datawrapper.de/beautifulcolors/) (Guide)(Color)
 
 ### :coffee: Experience
 - ["What Data Visualisation Experts Wish They Knew When They First Started" - Evelina Judeikytė](https://medium.com/nightingale/what-data-visualisation-experts-wish-they-knew-when-they-first-started-e9bd4906d25)
@@ -82,7 +84,6 @@ A resource about the world of data visualization for learners, experts, enthusia
 - [Information is Beatiful](https://informationisbeautiful.net)
 - [Reddit, Data is Beatiful](https://www.reddit.com/r/dataisbeautiful/)
 - [Questions in Dataviz](https://questionsindataviz.com)
-- [Nightingale](https://medium.com/nightingale)
 - [Viz for Social Good](https://twitter.com/VizFSG)
 - [Data Visualization Society](https://www.datavisualizationsociety.com)
 - [Flowingdata](https://flowingdata.com)
