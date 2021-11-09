@@ -5,15 +5,15 @@ A resource about the world of data visualization for learners, experts, enthusia
 ## Learning from experts
 
 ### :compass: Guide, Tutorial, Course
-- [Data Viz Catalogue](https://datavizcatalogue.com/) (Guide)
-- [Data Viz Project](https://datavizproject.com/) (Guide)
-- [From Data to Viz](https://www.data-to-viz.com) (Guide)
+- [Data Viz Catalogue](https://datavizcatalogue.com/) (Guide)(Chart)
+- [Data Viz Project](https://datavizproject.com/) (Guide)(Chart)
+- [From Data to Viz](https://www.data-to-viz.com) (Guide)(Chart)
+- [Visualization Universe](http://visualizationuniverse.com) (Guide)(Chart)
+- [Visual Vocabulary](https://ft-interactive.github.io/visual-vocabulary/) (Guide)(Chart)
+- [Python Graph Gallery](https://www.python-graph-gallery.com) (Guide)(Chart)
+- [R Graph Gallery](https://www.r-graph-gallery.com) (Guide)(Chart)
+- [D3.js Graph Gallery](https://www.d3-graph-gallery.com) (Guide)(Chart)
 - [Learn D3](https://observablehq.com/collection/@d3/learn-d3) (Tutorial)
-- [Visualization Universe](http://visualizationuniverse.com) (Guide)
-- [Visual Vocabulary](https://ft-interactive.github.io/visual-vocabulary/) (Guide)
-- [Python Graph Gallery](https://www.python-graph-gallery.com) (Guide)
-- [R Graph Gallery](https://www.r-graph-gallery.com) (Guide)
-- [D3.js Graph Gallery](https://www.d3-graph-gallery.com) (Guide)
 - [BBC Cookbook](https://bbc.github.io/rcookbook/) (Tutorial)
 - [Data Visualization: A Practical Introduction](https://socviz.co/index.html) (Guide)
 - [Data Visualization with D3, JavaScript, React](https://www.youtube.com/watch?v=2LhoCfjm8R4) (Course)
