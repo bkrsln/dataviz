@@ -4,7 +4,7 @@ A resource about the world of data visualization for learners, experts, enthusia
 
 ## Learning from experts
 
-### :compass: Guide, Tutorial, Course
+### :compass: Guide, Tutorial, Coursei Inspiration
 - [Data Viz Catalogue](https://datavizcatalogue.com/) (Guide)(Chart)
 - [Data Viz Project](https://datavizproject.com/) (Guide)(Chart)
 - [From Data to Viz](https://www.data-to-viz.com) (Guide)(Chart)
@@ -26,6 +26,8 @@ A resource about the world of data visualization for learners, experts, enthusia
 - [Tableau Student Guide](https://www.thetableaustudentguide.com) (Guide)
 - [Guide to Colors in Data Visualisation](https://blog.datawrapper.de/colorguide/) (Guide)(Color)
 - [Colors for Your Data Visualizations](https://blog.datawrapper.de/beautifulcolors/) (Guide)(Color)
+- [Dataviz Inspration](https://www.dataviz-inspiration.com) (Inspiration)
+- [1 dataset 100 visualizations](https://100.datavizproject.com) (Inspiration)
 
 ### :coffee: Experience
 - ["What Data Visualisation Experts Wish They Knew When They First Started" - Evelina Judeikytė](https://medium.com/nightingale/what-data-visualisation-experts-wish-they-knew-when-they-first-started-e9bd4906d25)
@@ -104,6 +106,7 @@ A resource about the world of data visualization for learners, experts, enthusia
 - [Reuters Graphics](https://twitter.com/ReutersGraphics)
 - [Post Graphics](https://twitter.com/PostGraphics)
 - [Nightingale](https://nightingaledvs.com)
+- [Dataviz Universe](https://datavizuniverse.substack.com)
 
 :top: [Back to top](#dataviz)
 
