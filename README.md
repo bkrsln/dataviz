@@ -4,7 +4,7 @@ A resource about the world of data visualization for learners, experts, enthusia
 
 ## Learning from experts
 
-### :compass: Guide, Tutorial, Coursei Inspiration
+### :compass: Guides, Tutorials, Courses, Inspirations
 - [Data Viz Catalogue](https://datavizcatalogue.com/) (Guide)(Chart)
 - [Data Viz Project](https://datavizproject.com/) (Guide)(Chart)
 - [From Data to Viz](https://www.data-to-viz.com) (Guide)(Chart)
@@ -29,14 +29,14 @@ A resource about the world of data visualization for learners, experts, enthusia
 - [Dataviz Inspration](https://www.dataviz-inspiration.com) (Inspiration)
 - [1 dataset 100 visualizations](https://100.datavizproject.com) (Inspiration)
 
-### :coffee: Experience
+### :coffee: Experiences
 - ["What Data Visualisation Experts Wish They Knew When They First Started" - Evelina Judeikytė](https://medium.com/nightingale/what-data-visualisation-experts-wish-they-knew-when-they-first-started-e9bd4906d25)
 - ["How I Became a Data Visualization Designer" - Nadieh Bremer](https://www.visualcinnamon.com/resources/learning-data-visualization/)
 - ["I Learned Data Viz in a Year, and You Can Too" - Evelina Judeikytė](https://medium.com/nightingale/i-learned-data-viz-in-a-year-and-you-can-too-2b610d25946e)
 
 :top: [Back to top](#dataviz)
 
-### :closed_book: Book
+### :closed_book: Books
 - [Fundamentals of Data Visualization, Claus O. Wilke](https://clauswilke.com/dataviz/) (Free)
 - [Hands-On Data Visualization, Jack Dougherty & Ilya Ilyankou](https://handsondataviz.org) (Free)
 - [Interactive Data Visualization, Scott Murray](https://www.oreilly.com/library/view/interactive-data-visualization/9781449340223/)
@@ -53,7 +53,7 @@ A resource about the world of data visualization for learners, experts, enthusia
 
 ## Creating own visualizations
 
-### :control_knobs: Tool, Library, Framework
+### :control_knobs: Tools, Libraries, Frameworks
 - [Python, Matplotlib](https://matplotlib.org)
 - [Python, Seaborn](https://seaborn.pydata.org/)
 - [Python, Bokeh](https://bokeh.org)
@@ -80,11 +80,11 @@ A resource about the world of data visualization for learners, experts, enthusia
 
 ## Following to professionals
 
-### :partying_face: Blog, Network, Community, Agency
+### :partying_face: Blogs, Communities
 - [Visual Capitalist](https://www.visualcapitalist.com)
 - [Our World in Data](https://ourworldindata.org)
-- [Information is Beatiful](https://informationisbeautiful.net)
-- [Reddit, Data is Beatiful](https://www.reddit.com/r/dataisbeautiful/)
+- [Information is Beautiful](https://informationisbeautiful.net)
+- [Reddit, Data is Beautiful](https://www.reddit.com/r/dataisbeautiful/)
 - [Questions in Dataviz](https://questionsindataviz.com)
 - [Viz for Social Good](https://twitter.com/VizFSG)
 - [Data Visualization Society](https://www.datavisualizationsociety.com)
@@ -107,10 +107,11 @@ A resource about the world of data visualization for learners, experts, enthusia
 - [Post Graphics](https://twitter.com/PostGraphics)
 - [Nightingale](https://nightingaledvs.com)
 - [Dataviz Universe](https://datavizuniverse.substack.com)
+- [Çilek Ağacı](https://cilekagaci.com)
 
 :top: [Back to top](#dataviz)
 
-### :studio_microphone: YouTube Channel, Podcast
+### :studio_microphone: YouTube Channels, Podcasts
 - [Explore Explain](https://www.visualisingdata.com/podcast/) (YouTube Channel)(Podcast)
 - [Data Viz Today](https://dataviztoday.com) (Podcast)
 - [Data Stories](https://datastori.es) (Podcast)
