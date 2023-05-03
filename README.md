@@ -108,6 +108,7 @@ A resource about the world of data visualization for learners, experts, enthusia
 - [Nightingale](https://nightingaledvs.com)
 - [Dataviz Universe](https://datavizuniverse.substack.com)
 - [Çilek Ağacı](https://cilekagaci.com)
+- [The Viz Collective](https://thevizcollective.starschema.com/)
 
 :top: [Back to top](#dataviz)
 
